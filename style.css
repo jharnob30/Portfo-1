@@ -19,3 +19,15 @@ h3 {
 img{
   border-radius: 100%;
 }
+.edu{
+  text-align: center;
+  padding: 20px;
+  margin: 30px auto;
+  width: 100%;
+}
+.tab{
+  margin: 10px auto;
+}
+#skills{
+  width: 100%;
+}
